@@ -26,9 +26,9 @@ Soy una profesional apasionada por la tecnología y la optimización de procesos
 
 📫 Conéctate conmigo
 
-<a href="https://www.linkedin.com/in/vanesa-c-passaglia-analistafuncional"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-syedammarilyas-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/vanesa-c-passaglia-analistafuncional"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="mailto:vcp2403@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-syedammarilyas@hotmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:vcp2403@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vcp2403@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 
 
