@@ -23,9 +23,23 @@ Herramientas: Git, GitHub, Docker, SSRS (Reporting Services)
 
 Metodologías: Agile, Scrum, Design Thinking
 
-📈 Últimos Proyectos
+### 🛠 Tech Stack
 
-🔹 Proyecto Web de Certificaciones - Aplicación donde empresas se registran según su certificación y los usuarios pueden filtrarlas.🔹 Gestión de Reservas - Sistema de validación de cupos para clases con JavaScript.🔹 Optimización de Grid CSS - Diseño y optimización de una cuadrícula CSS para una sección de tarjetas.
+
+![Sql](http://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white)
+![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
+![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
+![Css](http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white)
+![Sass](http://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)
+
+![Mysql](http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql)
+![MongoDb](http://img.shields.io/badge/-MongoDb-white?style=flat-square&logo=mongodb)
+
+![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
+![Npm](http://img.shields.io/badge/-Npm-white?style=flat-square&logo=npm&logoColor=white)
+
+
+
 
 📫 Conéctate conmigo
 
