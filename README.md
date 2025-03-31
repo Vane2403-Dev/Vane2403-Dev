@@ -1,7 +1,7 @@
-👋 ¡Hola! Soy Vanesa Celina Passaglia
+👋 ¡Hola! Soy Vane
 
 🚀 Sobre mí
-Soy una profesional apasionada por la tecnología y la optimización de procesos. He trabajado en análisis funcional, gestión de proyectos y sistemas ERP, liderando la implementación de soluciones innovadoras que digitalizan y optimizan procesos administrativos, impositivos y contables.
+So apasionada por la tecnología y la optimización de procesos. He trabajado en análisis funcional, gestión de proyectos y sistemas ERP, liderando la implementación de soluciones innovadoras que digitalizan y optimizan procesos administrativos, impositivos y contables.
 
 💡 Mi perfil técnico, versátil y polifuncional me permite diseñar e implementar soluciones estratégicas alineadas con las necesidades del negocio. A través de la digitalización de procesos, optimizo flujos de trabajo, reducciendo tiempos administrativos,  en empresas de distintos sectores. Donde se destacan procesos impositivos, financieros y  bancarios, complejos. 
 
