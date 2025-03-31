@@ -24,6 +24,10 @@ Soy apasionada por la tecnología y la optimización de procesos. He trabajado e
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="sql" width="40" height="40"/> </a><a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="sqlmMicrosoft" width="40" height="40"/> </a><a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongo" width="40" height="40"/> </a> </p>
 
 
+<h3>My GitHub Stats</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vane2403-dev&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+
 
 📫 Conéctate conmigo
 
