@@ -1,27 +1,12 @@
 👋 ¡Hola! Soy Vanesa Celina Passaglia
 
 🚀 Sobre mí
+Soy una profesional apasionada por la tecnología y la optimización de procesos. He trabajado en análisis funcional, gestión de proyectos y sistemas ERP, liderando la implementación de soluciones innovadoras que digitalizan y optimizan procesos administrativos, impositivos y contables.
 
-Soy Analista Funcional Senior con experiencia en proyectos de mejora de procesos administrativos, impositivos y contables. Actualmente, estoy desarrollando mi carrera como Full Stack Developer.
-
-📌 Me apasiona la optimización de procesos y la gestión de productos digitales.
-📌 Tengo conocimientos en Scrum, UI/UX, SQL avanzado, Product Management y más.
-📌 Actualmente, estoy profundizando en React, Node.js y MongoDB.
-📌 En 2025, mi objetivo es certificarme como Scrum Master.
+💡 Mi perfil técnico, versátil y polifuncional me permite diseñar e implementar soluciones estratégicas alineadas con las necesidades del negocio. A través de la digitalización de procesos, optimizo flujos de trabajo, reducciendo tiempos administrativos,  en empresas de distintos sectores. Donde se destacan procesos impositivos, financieros y  bancarios, complejos. 
 
 🛠️ Tech Stack
 
-📌 Lenguajes y Frameworks
-
-Frontend: HTML, CSS, JavaScript (ES6+), React.js
-
-Backend: Node.js, Express
-
-Bases de Datos: SQL (MySQL, PostgreSQL), MongoDB
-
-Herramientas: Git, GitHub, Docker, SSRS (Reporting Services)
-
-Metodologías: Agile, Scrum, Design Thinking
 
 ![Sql](http://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white)
 ![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
@@ -35,12 +20,16 @@ Metodologías: Agile, Scrum, Design Thinking
 ![Npm](http://img.shields.io/badge/-Npm-white?style=flat-square&logo=npm&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+
 
 
 
 📫 Conéctate conmigo
 
-🔗 LinkedIn: https://www.linkedin.com/in/vanesa-c-passaglia-analistafuncional/📧 Email: vanesa_passaglia@hotmail.com🚀 ¡Siempre abierta a colaborar en proyectos interesantes!
+<a href="https://www.linkedin.com/in/vanesa-c-passaglia-analistafuncional"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-syedammarilyas-blue?style=flat-square&logo=linkedin"></a>
+
+<a href="mailto:vcp2403@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-syedammarilyas@hotmail.com-blue?style=flat-square&logo=gmail"></a>
+
+
 
 ¡Gracias por visitar mi perfil! 😊
