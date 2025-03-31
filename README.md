@@ -6,6 +6,8 @@ Soy apasionada por la tecnología y la optimización de procesos. He trabajado e
 
 💡 Mi perfil técnico, versátil y polifuncional me permite diseñar e implementar soluciones estratégicas alineadas con las necesidades del negocio. A través de la digitalización de procesos, optimizo flujos de trabajo, reducciendo tiempos administrativos,  en empresas de distintos sectores. Donde se destacan procesos impositivos, financieros y  bancarios, complejos. 
 
+🧗‍♀️ En lo personal, me apasionan los desafíos físicos y mentales: practico andinismo, escalada en roca y en hielo. Creo en el aprendizaje continuo y en la superación constante, tanto en el ámbito profesional como en la vida.
+
 🛠️ Tech Stack
 
 
