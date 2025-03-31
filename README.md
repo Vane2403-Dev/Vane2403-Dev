@@ -28,13 +28,10 @@ Soy apasionada por la tecnología y la optimización de procesos. He trabajado e
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vane2403-dev&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
 
+<h3 align="left">📫 Conéctate conmigo</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/vanesa-c-passaglia-analistafuncional" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lkd" height="30" width="40" /></a>
 
-📫 Conéctate conmigo
-
-<a href="https://www.linkedin.com/in/vanesa-c-passaglia-analistafuncional"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-
-<a href="mailto:vcp2403@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vcp2403@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
-
+<a href="mailto:vcp2403@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-vcp2403@gmail.com-blue?style=flat-square&logo=gmail" alt="lkd" height="30" width="40" /></a>
 
 ¡Gracias por visitar mi perfil! 😊
