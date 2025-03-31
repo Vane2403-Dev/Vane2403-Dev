@@ -63,7 +63,7 @@ Soy apasionada por la tecnología y la optimización de procesos. He trabajado e
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
   <a href="mailto:vcp2403@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-style=flat-square&logo=gmail" alt="Email" height="40" width="100" />
+    <img src="https://img.shields.io/badge/logo=gmail" alt="Email" height="40" width="100" />
   </a>
 </p>
 
