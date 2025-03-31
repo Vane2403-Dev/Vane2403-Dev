@@ -2,7 +2,7 @@
 
 🚀 Sobre mí
 
-Soy Analista Funcional Senior con experiencia en proyectos de mejora de procesos administrativos, impositivos y contables. Actualmente, estoy desarrollando mi carrera como Full Stack Developer, con un enfoque especial en datos.
+Soy Analista Funcional Senior con experiencia en proyectos de mejora de procesos administrativos, impositivos y contables. Actualmente, estoy desarrollando mi carrera como Full Stack Developer.
 
 📌 Me apasiona la optimización de procesos y la gestión de productos digitales.
 📌 Tengo conocimientos en Scrum, UI/UX, SQL avanzado, Product Management y más.
