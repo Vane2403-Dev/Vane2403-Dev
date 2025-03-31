@@ -1,9 +1,7 @@
 # 👋 ¡Hola! Soy Vane
 
 ## 🚀 Sobre mí  
-Soy apasionada por la tecnología y la optimización de procesos. He trabajado en análisis funcional, gestión de proyectos y sistemas ERP. **SQL es mi fuerte.**  
-
-Mi profesion original es contador, por eso se me dan bien los procesos contables, impositivos y financieros, de los ERP. 
+Soy apasionada por la tecnología y la optimización de procesos. He trabajado en análisis funcional, gestión de proyectos y sistemas ERP. **SQL es mi fuerte.**  Mi profesion original es contador, por eso se me dan bien los procesos contables, impositivos y financieros, de los ERP. 
 
 💡 Mi perfil técnico, versátil y polifuncional me permite diseñar e implementar soluciones estratégicas alineadas con las necesidades del negocio.  
 
