@@ -46,7 +46,9 @@ Soy apasionada por la tecnología y la optimización de procesos. He trabajado e
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/> 
   </a>
-  <i class="fas fa-database" style="font-size: 40px; color: #F80000;"></i>
+  <a href="" target="_blank"> 
+  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle SQL" height="40" />
+      </a>
 </p>
 
 ---
