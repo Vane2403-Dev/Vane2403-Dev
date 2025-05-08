@@ -1,14 +1,13 @@
 # 👋 ¡Hola! Soy Vane
 
 ## 🚀 Sobre mí  
-Soy apasionada por la tecnología y la optimización de procesos. He trabajado en análisis funcional, gestión de proyectos y sistemas ERP. **SQL es mi fuerte.**  Mi profesion original es contador, por eso se me dan bien los procesos contables, impositivos y financieros, de los ERP. 
+So apasionada por la tecnología, la optimización de procesos y la creación de soluciones que integren negocio y tecnología. Con una formación inicial en contaduría, tengo una sólida base en procesos contables, impositivos y financieros, lo que me ha permitido especializarme en sistemas ERP, donde SQL es mi fuerte.
 
-💡 Mi perfil técnico, versátil y polifuncional me permite diseñar e implementar soluciones estratégicas alineadas con las necesidades del negocio.  
+💡 Mi perfil es técnico, versátil y polifuncional, lo que me permite diseñar, implementar y optimizar soluciones estratégicas alineadas con las necesidades del negocio. Mi experiencia en análisis funcional y gestión de proyectos me ha permitido contribuir en diversos proyectos de transformación digital.
 
-🌱 Actualmente estoy estudiando **Web Development Full-Stack**.  
+🌱 Actualmente, me encuentro ampliando mis habilidades como desarrolladora Full-Stack, profundizando en tecnologías como Node.js y TypeScript, con el objetivo de crear soluciones tecnológicas que mejoren la eficiencia operativa.
 
-🧗‍♀️ En lo personal, me apasionan los desafíos físicos y mentales: practico **andinismo, escalada en roca y en hielo**. Creo en el aprendizaje continuo y en la superación constante, tanto en el ámbito profesional como en la vida.  
-
+📂 En mi perfil encontrarás proyectos y soluciones que reflejan mi proceso de aprendizaje y habilidades técnicas.
 ---
 
 ## 🛠️ Tech Stack  
