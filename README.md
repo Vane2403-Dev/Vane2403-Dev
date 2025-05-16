@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Vane
 
 ## 🚀 Sobre mí  
-So apasionada por la tecnología, la optimización de procesos y la creación de soluciones que integren negocio y tecnología. Con una formación inicial en contaduría, tengo una sólida base en procesos contables, impositivos y financieros, lo que me ha permitido especializarme en sistemas ERP, donde SQL es mi fuerte.
+Soy apasionada por la tecnología, la optimización de procesos y la creación de soluciones que integren negocio y tecnología. Con una formación inicial en contaduría, tengo una sólida base en procesos contables, impositivos y financieros, lo que me ha permitido especializarme en sistemas ERP, donde SQL es mi fuerte.
 
 💡 Mi perfil es técnico, versátil y polifuncional, lo que me permite diseñar, implementar y optimizar soluciones estratégicas alineadas con las necesidades del negocio. Mi experiencia en análisis funcional y gestión de proyectos me ha permitido contribuir en diversos proyectos de transformación digital.
 
