@@ -64,7 +64,7 @@ Soy apasionada por la tecnología, la optimización de procesos y la creación d
   <a href="https://www.linkedin.com/in/vanesa-c-passaglia-analistafuncional" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
 
-<a href="mailto:vcp2403@gmail.com" target="_blank">
+<a href="mailto:vanesacpassaglia@gmail.com" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gmail.svg" alt="Email" height="40" width="40" />
 </a>
   </p>
