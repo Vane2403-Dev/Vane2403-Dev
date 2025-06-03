@@ -5,10 +5,12 @@ Soy apasionada por la tecnología, la optimización de procesos y la creación d
 
 💡 Mi perfil es técnico, versátil y polifuncional, lo que me permite diseñar, implementar y optimizar soluciones estratégicas alineadas con las necesidades del negocio. Mi experiencia en análisis funcional y gestión de proyectos me ha permitido contribuir en diversos proyectos de transformación digital.
 
-🌱 Actualmente, me encuentro ampliando mis habilidades como desarrolladora , profundizando en tecnologías como Node.js y con el objetivo de especializarme progresivamente en el mundo de los datos.
+💼 Con una mirada estratégica que integra negocio y tecnología, combino mi experiencia en procesos contables y ERP con habilidades en desarrollo backend y análisis funcional, lo que me permite crear soluciones escalables que optimizan la operación y aportan valor real al negocio.
+
+🌱 Actualmente, me encuentro ampliando mis habilidades como desarrolladora, profundizando en tecnologías como Node.js y Power BI, con el objetivo de comprender mejor el funcionamiento de las APIs, la arquitectura de software y especializarme progresivamente en el mundo de los datos.
 
 
-✨ Gracias por visitar mi perfil. Si compartís la pasión por la tecnología, los datos y la mejora continua, ¡conectemos! 😊
+📂 En mi perfil encontrarás proyectos y soluciones que reflejan mi proceso de aprendizaje y habilidades técnicas.
 ---
 
 ## 🛠️ Tech Stack  
@@ -79,5 +81,4 @@ Soy apasionada por la tecnología, la optimización de procesos y la creación d
   </p>
 
 ---
-
-✨ *Gracias por visitar mi perfil!* 😊
+✨ Gracias por visitar mi perfil. Si compartís la pasión por la tecnología, los datos y la mejora continua, ¡conectemos! 😊
