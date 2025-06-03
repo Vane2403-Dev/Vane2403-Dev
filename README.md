@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Vane
+# 👋 ¡Hola! Soy Vanesa
 
 ## 🚀 Sobre mí  
 Soy apasionada por la tecnología, la optimización de procesos y la creación de soluciones que integren negocio y tecnología. Con una formación inicial en contaduría, tengo una sólida base en procesos contables, impositivos y financieros, lo que me ha permitido especializarme en sistemas ERP, donde SQL es mi fuerte.
@@ -8,7 +8,7 @@ Soy apasionada por la tecnología, la optimización de procesos y la creación d
 🌱 Actualmente, me encuentro ampliando mis habilidades como desarrolladora , profundizando en tecnologías como Node.js y con el objetivo de especializarme progresivamente en el mundo de los datos.
 
 
-📂 En mi perfil encontrarás proyectos y soluciones que reflejan mi proceso de aprendizaje y habilidades técnicas.
+✨ Gracias por visitar mi perfil. Si compartís la pasión por la tecnología, los datos y la mejora continua, ¡conectemos! 😊
 ---
 
 ## 🛠️ Tech Stack  
