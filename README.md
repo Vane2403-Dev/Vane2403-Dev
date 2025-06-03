@@ -5,7 +5,8 @@ Soy apasionada por la tecnología, la optimización de procesos y la creación d
 
 💡 Mi perfil es técnico, versátil y polifuncional, lo que me permite diseñar, implementar y optimizar soluciones estratégicas alineadas con las necesidades del negocio. Mi experiencia en análisis funcional y gestión de proyectos me ha permitido contribuir en diversos proyectos de transformación digital.
 
-🌱 Actualmente, me encuentro ampliando mis habilidades como desarrolladora , profundizando en tecnologías como Node.js , con el objetivo de crear soluciones tecnológicas que mejoren la eficiencia operativa y eventualmente migrar al mundo de los datos. 
+🌱 Actualmente, me encuentro ampliando mis habilidades como desarrolladora , profundizando en tecnologías como Node.js y con el objetivo de especializarme progresivamente en el mundo de los datos.
+
 
 📂 En mi perfil encontrarás proyectos y soluciones que reflejan mi proceso de aprendizaje y habilidades técnicas.
 ---
