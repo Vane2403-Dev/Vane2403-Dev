@@ -51,6 +51,14 @@ Soy apasionada por la tecnología, la optimización de procesos y la creación d
       </a>
 </p>
 
+----
+## 📚 Certificaciones Destacadas
+- 📌 Professional Scrum Master –Udemy - certiprof 
+- 📌 SQL Avanzado – Coderhouse  
+- 📌 Diseño UI/UX – Udemy  
+- 📌 Product Manager – Coderhouse
+- 📌 Desarrollo web – Coderhouse  
+- 📌 Desarrollo Backend – Coderhouse  
 ---
 
 ## 📊 My GitHub Stats  
