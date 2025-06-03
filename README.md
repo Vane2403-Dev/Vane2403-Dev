@@ -56,7 +56,7 @@ Soy apasionada por la tecnología, la optimización de procesos y la creación d
 ----
 ## 📚 Certificaciones Destacadas
 - 📌 Professional Scrum Master –Udemy - certiprof 
-- 📌 SQL Avanzado – Coderhouse  
+- 📌 SQL Avanzado – Udemy
 - 📌 Diseño UI/UX – Udemy  
 - 📌 Product Manager – Coderhouse
 - 📌 Desarrollo web – Coderhouse  
