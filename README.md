@@ -20,8 +20,8 @@ Soy apasionada por la tecnología, la optimización de procesos y la creación d
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/wesbos/django-badge@master/django-badge.svg" alt="Django" width="50" height="50"/>
+   <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" width="90" height="30"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
