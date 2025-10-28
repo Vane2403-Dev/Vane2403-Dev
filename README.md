@@ -13,6 +13,7 @@ Soy apasionada por la tecnología, la optimización de procesos y la creación d
 📂 En mi perfil encontrarás proyectos y soluciones que reflejan mi proceso de aprendizaje y habilidades técnicas.
 ---
 
+
 ## 🛠️ Tech Stack  
 
 <p align="center">
@@ -20,7 +21,7 @@ Soy apasionada por la tecnología, la optimización de procesos y la creación d
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   </a>
   <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/wesbos/django-badge@master/django-badge.svg" alt="Django" width="50" height="50"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
@@ -46,19 +47,14 @@ Soy apasionada por la tecnología, la optimización de procesos y la creación d
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original-wordmark.svg" alt="Postman" width="50" height="50"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-us/products/azure-sql" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" alt="Azure SQL" width="50" height="50"/>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" width="50" height="50"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
   </a>
-  <a href="https://www.oracle.com/database/" target="_blank">
-    <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle SQL" height="40"/>
-  </a>
 </p>
+
 
 
 ----
